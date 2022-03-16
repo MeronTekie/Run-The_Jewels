@@ -1,0 +1,13 @@
+.sidebar {
+  background-color: rgb(231, 117, 117);
+  float: right;
+  width: 25%;
+}
+
+.column {
+  width: 510px;
+  float: left;
+}
+.live {
+  float: left;
+}
