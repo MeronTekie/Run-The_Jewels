@@ -1,0 +1,8 @@
+.albumart {
+  float: left;
+  width: 35%;
+}
+
+.showinfo {
+  white-space: pre-wrap;
+}
